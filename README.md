@@ -26,6 +26,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## Projects
 Here are some of the projects I've been working on:
 
-1. **Project Name**: Brief description of the project.
-2. **Project Name**: Brief description of the project.
-3. **Project Name**: Brief description of the project.
