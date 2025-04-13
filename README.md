@@ -21,8 +21,5 @@ Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen i
 - **Frameworks and Libraries**: React, ASP.NET, Firebase, Pocketbase.
 - **Tools and Technologies**: Visual Paradigm, Figma.
 - **Competencies**: UML diagrams, Software Deveopment Life Cylce (SDLC), Wireframes.
--  
 
-## Projects
-Here are some of the projects I've been working on:
 
