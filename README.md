@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 - 🎓 Honours student in Informatics at Stellenbosch University.
-- 💼 Currently enhancing my expertise in ASP.NET to build scalable and efficient applications.
-- 🌱 Passionate about front-end development, back-end development, and data analysis.
+- 💼 Currently enhancing my skils in software developement to build scalable and efficient applications.
+- 🌱 Passionate about Front-end development, Back-end development, Cyber Security and Data Analysis.
 - 📫 How to reach me: kemiicekiso@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lwazi-cekiso).
 
