@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen i
 
 ## About Me
 - 🎓 Honours student in Informatics at Stellenbosch University.
-- 💼 Currently enhancing my skils in software developement to build scalable and efficient applications.
-- 🌱 Passionate about Front-end development, Back-end development, Cyber Security and Data Analysis.
-- 📫 How to reach me: kemiicekiso@gmail.com.
+- 💼 Currently enhancing my skils in software developement and Cyber Security.
+- 🌱 Passionate about Software development, Cyber Security and Data Analysis.
+- 📫 How to reach me: lwazicekiso112@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lwazi-cekiso).
 
 
