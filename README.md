@@ -1,6 +1,6 @@
 # Hi there, I'm Lwazi Cekiso 👋
 
-Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen interest in full-stack development, system analysis, cyber security and information systems.
+Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen interest in full-stack development, system analysis and cyber security.
 
 ## About Me
 - 🎓 Honours student in Informatics at Stellenbosch University.
