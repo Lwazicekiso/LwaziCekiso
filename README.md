@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen i
 
 ## About Me
 - 🎓 Honours student in Informatics at Stellenbosch University.
-- 💼 Currently enhancing my skils in software developement and Cyber Security.
+- 💼 Currently enhancing my skils in software developement .
 - 🌱 Passionate about Software development, Cyber Security and Data Analysis.
 - 📫 How to reach me: lwazicekiso112@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lwazi-cekiso).
