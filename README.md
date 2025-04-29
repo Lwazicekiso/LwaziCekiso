@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen i
 ## Education
 **Stellenbosch University**
 - Bachelor of Informatics Honours, Informatics, February 2025 - November 2025
-  - Program focusing on the intersection of information systems, data analytics, and business intelligence. The curriculum emphasizes system design, database management, decision support systems, and IT strategy, equipping students with the skills to analyze and optimize information processes in various industries.
+  - Program focusing on the intersection of information systems, data analytics, Cyber security and business intelligence. The curriculum emphasizes system design, database management, decision support systems, and IT strategy, equipping students with the skills to analyze and optimize information processes in various industries.
 - BA Humanities (Informatics Major), Informatics
 
 ## My Skills
