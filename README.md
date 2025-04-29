@@ -18,8 +18,7 @@ Welcome to my GitHub profile! I'm a passionate informatics studnet with a keen i
 
 ## My Skills
 - **Programming Languages**: C#, Python, JavaScript, R Programming.
-- **Frameworks and Libraries**: React, ASP.NET, Firebase, Pocketbase.
-- **Tools and Technologies**: Visual Paradigm, Figma.
-- **Competencies**: UML diagrams, Software Deveopment Life Cylce (SDLC), Wireframes.
-
+- **Software Development**: Full-Stack Development (React, ASP.NET), API Integration, Authentication Systems, PocketBase, Firebase and render.com for deployment.
+- **Tools and Technologies**: Git/GitHub, Visual Studio, Microsoft Office, Linux
+- **UI/UX & Planning**: Wireframing (Figma, Visual Paradigm), UML Diagrams, SDLC, Business Analysis
 
